@@ -1,0 +1,18 @@
+.classpath
+.DS_Store
+.sfdx
+.project
+.salesforce
+.settings
+node_modules
+.idea
+.vscode
+.tern-project
+destroy.sh
+envvars.sh
+test.sh
+salesforcedx.sh
+mdapiout
+test.yml
+salesforce.schema
+Referenced Packages
